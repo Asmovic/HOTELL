@@ -1,0 +1,104 @@
+C:\WEBSITES\HOTELL\HOTELL\bin\HOTELL.dll.config
+C:\WEBSITES\HOTELL\HOTELL\bin\HOTELL.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\HOTELL.pdb
+C:\WEBSITES\HOTELL\HOTELL\bin\Antlr3.Runtime.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\AspNet.ScriptManager.jQuery.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\EntityFramework.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\EntityFramework.SqlServer.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Google.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Web.Infrastructure.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Newtonsoft.Json.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\Owin.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\System.Web.Optimization.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\System.Web.Providers.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\WebGrease.dll
+C:\WEBSITES\HOTELL\HOTELL\bin\System.Web.Optimization.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Antlr3.Runtime.pdb
+C:\WEBSITES\HOTELL\HOTELL\bin\Newtonsoft.Json.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\EntityFramework.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\EntityFramework.SqlServer.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Google.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\WEBSITES\HOTELL\HOTELL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\WEBSITES\HOTELL\HOTELL\obj\Debug\HOTELL.csprojResolveAssemblyReference.cache
+C:\WEBSITES\HOTELL\HOTELL\obj\Debug\HOTELL.dll
+C:\WEBSITES\HOTELL\HOTELL\obj\Debug\HOTELL.pdb
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\HOTELL.dll.config
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\HOTELL.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\HOTELL.pdb
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Antlr3.Runtime.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\EntityFramework.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\EntityFramework.SqlServer.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Newtonsoft.Json.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Owin.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\System.Web.Optimization.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\System.Web.Providers.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\WebGrease.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\System.Web.Optimization.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Antlr3.Runtime.pdb
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Newtonsoft.Json.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\EntityFramework.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\EntityFramework.SqlServer.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\obj\Debug\HOTELL.csprojAssemblyReference.cache
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\obj\Debug\HOTELL.csproj.CoreCompileInputs.cache
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\obj\Debug\HOTELL.csproj.CopyComplete
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\obj\Debug\HOTELL.dll
+C:\Users\CamelCase\Desktop\C Sharp project\HOTELL\HOTELL\obj\Debug\HOTELL.pdb
